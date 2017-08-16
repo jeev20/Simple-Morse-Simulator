@@ -1,19 +1,23 @@
-A simple Morse simulator with ATR vehicle. 
+**A simple Morse simulator with ATR vehicle** 
 
 
-Morse installation instructions: 
+Morse installation instructions can be found [here]( 
 https://www.openrobots.org/morse/doc/stable/user/installation.html 
-https://github.com/morse-simulator/morse 
+https://github.com/morse-simulator/morse) 
 
 
-Usage: 
-Download the robot_scene.py and RunSimulation.sh into the same directory
-In the terminal use command -  sudo bash RunSimulation.sh 
-The simulator window will open up. 
-Up Down Left Right keys for movement. 
-W and S for zooming in and zooming out
+**Usage:** 
+- [x] Download/clone the contents of this repo into target directory
+- [x] CD in to the target directory.
+- [x] In the terminal use the following command -  
+```
+sudo bash RunSimulation.sh
+```
+- [x] The simulator window will open up. 
+- [x] Up Down Left Right keys for movement. 
+- [x] W and S for zooming in and zooming out
 
 
-Output:
+**Output:**
 
 ![alt text](https://github.com/jeev20/Simple-Morse-Simulator/blob/master/Simulator.gif)
