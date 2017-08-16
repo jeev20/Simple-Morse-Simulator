@@ -15,3 +15,5 @@ W and S for zooming in and zooming out
 
 
 Output:
+
+![alt text](https://github.com/jeev20/Simple-Morse-Simulator/blob/master/Simulator.gif)
