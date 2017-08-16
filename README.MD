@@ -1,8 +1,8 @@
 **A simple Morse simulator with ATR vehicle** 
 
 
-Morse installation instructions can be found [here](https://www.openrobots.org/morse/doc/stable/user/installation.html 
-https://github.com/morse-simulator/morse) 
+[Morse installation instructions](https://www.openrobots.org/morse/doc/stable/user/installation.html) 
+[Morse GitHub Pages](https://github.com/morse-simulator/morse) 
 
 
 **Usage:** 
@@ -10,7 +10,7 @@ https://github.com/morse-simulator/morse)
 - [x] CD in to the target directory.
 - [x] In the terminal use the following command -  
 ```
-sudo bash RunSimulation.sh
+sudo bash Run_Simulation.sh
 ```
 - [x] The simulator window will open up. 
 - [x] Up Down Left Right keys for movement. 
