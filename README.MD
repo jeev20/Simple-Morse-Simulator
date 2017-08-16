@@ -1,8 +1,8 @@
 **A simple Morse simulator with ATR vehicle** 
 
 
-[Morse installation instructions](https://www.openrobots.org/morse/doc/stable/user/installation.html) 
-[Morse GitHub Pages](https://github.com/morse-simulator/morse) 
+- [Morse installation instructions](https://www.openrobots.org/morse/doc/stable/user/installation.html) 
+- [Morse GitHub Pages](https://github.com/morse-simulator/morse) 
 
 
 **Usage:** 
